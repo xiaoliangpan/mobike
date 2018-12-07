@@ -222,7 +222,7 @@ body {
 @media screen and (max-width: 640px) {
     .hero_promos .hero_promo{width: 100%;}
 
-    .meta_links div.meta_link {width: 100%;text-align: center !important;}
+    .meta_links div.meta_link {width: 100%;text-align: left !important;}
     .wrap .title h1 {
         font-size: 300%;
     }
@@ -236,7 +236,7 @@ body {
     .footer .footer_wrap .right .main_list li {
         /*width: 50%;*/
         margin-left: 0;
-        width: 163px;
+        width: 150px;
     }
 
 
